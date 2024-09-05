@@ -1,4 +1,4 @@
-# My Data Analysis Journey 🚀
+# 🚀 My Data Analysis Journey 
 ## Exploring One Data Project at a Time
 
 Hey there! Welcome to my data journey, where I’m turning numbers into narratives and data into decisions.
